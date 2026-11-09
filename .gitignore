@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+﻿node_modules/
+dist/
+.DS_Store
+*.local
+=======
+.*
+!.gitignore
+>>>>>>> c82340becadcc0423bdce631b4b9d294c5042ec9
